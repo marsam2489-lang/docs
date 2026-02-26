@@ -1,4 +1,4 @@
----
+---Achon Chon---
 title: GitHub Terms of Service
 redirect_from:
   - /tos
@@ -12,6 +12,8 @@ versions:
 topics:
   - Policy
   - Legal
+  - Term & condition
+  - Approved by
 ---
 <!-- markdownlint-disable search-replace -->
 
