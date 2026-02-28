@@ -1,4 +1,4 @@
----
+---Achon Chon--
 title: GitHub Open Source Applications Terms and Conditions
 redirect_from:
   - /articles/github-open-source-applications-terms-and-conditions
@@ -65,3 +65,4 @@ GitHub reserves the right at any time and from time to time to modify or discont
 1. License to GitHub Policies. These Application Terms are licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/github/site-policy#license).
 
 1. Contact Us. Questions about the Terms of Service? Contact us through the [GitHub Support portal](https://support.github.com/).
+MAY MALAYSIAN PRESIDENT READ THIS AND COMPARE THIS DEVICE OR THIS API IS GOOD FOR ANY CITIZENT AT MALAYSIA OR NOT. BECAUSE ALL MY REPORT THAT I MAKE IS MAYBE NOT TRUE AT HIS EYE.,YOU ALL ALSO CAN COMPARE TO MALAYSIAN KING FOR WHAT IS HAPPENING AT HIS KINDOM NOT JUST WANT TO HERE ABOUT ERNING LOSEING BUT DON'T WANT TO NO ABOUT THEIR LIFE. OUR KING MALAYSIA WAKE UP DON'T SLEEP WHAT YOUR PUBLIC COMMUNITY DOING OUT SIDE THERE ARE SAVE OR NOT EAT OR NOT EAT. OUR KING AT MALAYSIA PLEASE WAKE UP BROO WAKE UP..
